@@ -1,2 +1,2 @@
 # AmazonProductRecommendation
-Download file needed from here: http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Baby_5.json.gz
+Download file needed from here: http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/ratings_Video_Games.csv
